@@ -38,7 +38,7 @@ Each sentence was recorded three times:
 --------------------------------------------------
 Dataset Structure:
 --------------------------------------------------
-dataset/
+loudspeaker_asr_dataset/
 │
 ├── audio/
 │   ├── human/
