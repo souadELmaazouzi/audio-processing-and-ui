@@ -79,13 +79,7 @@ Intended Use:
 - Fine-tuning or testing Whisper-based ASR models
 - Educational and research purposes
 
---------------------------------------------------
-Notes:
---------------------------------------------------
-- The dataset is intentionally small-scale due to time constraints.
-- The protocol is designed to be reproducible and extendable.
-- This dataset serves as a controlled experimental contribution
-  complementary to existing large-scale datasets.
+
 
 --------------------------------------------------
 License:
