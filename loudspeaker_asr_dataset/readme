@@ -1,0 +1,93 @@
+Dataset Name:
+Human vs Loudspeaker Speech Dataset (0m & 3m)
+
+Description:
+This dataset was created to study the impact of loudspeaker playback on
+automatic speech recognition (ASR) performance, following the protocol
+inspired by recent works based on Whisper models.
+
+The dataset contains paired recordings of:
+- Direct human speech (natural speech)
+- Speech replayed through a loudspeaker at two distances (0 m and 3 m)
+
+The goal is to analyze acoustic distortions introduced by loudspeaker
+playback and distance, and their effect on ASR transcription accuracy.
+
+--------------------------------------------------
+Recording Protocol:
+--------------------------------------------------
+- Number of sentences: 20 (fixed and predefined)
+- Speaker: 1 human speaker
+- Recording device: smartphone microphone (standard quality)
+- Loudspeaker: consumer loudspeaker
+- Distances:
+  • Human (direct speech)
+  • Loudspeaker at 0 meters
+  • Loudspeaker at 3 meters
+- Environment:
+  • Quiet indoor room
+  • Minimal background noise
+- Sampling rate: 16 kHz
+- Audio format: WAV (lossless)
+
+Each sentence was recorded three times:
+1) Spoken directly by the human speaker
+2) Played through the loudspeaker at 0 meters
+3) Played through the loudspeaker at 3 meters
+
+--------------------------------------------------
+Dataset Structure:
+--------------------------------------------------
+dataset/
+│
+├── audio/
+│   ├── human/
+│   │   ├── phrase_01.wav
+│   │   ├── phrase_02.wav
+│   │   └── ...
+│   │
+│   ├── speaker_0m/
+│   │   ├── phrase_01.wav
+│   │   ├── phrase_02.wav
+│   │   └── ...
+│   │
+│   └── speaker_3m/
+│       ├── phrase_01.wav
+│       ├── phrase_02.wav
+│       └── ...
+│
+├── metadata.csv
+└── README.txt
+
+--------------------------------------------------
+Metadata:
+--------------------------------------------------
+The file metadata.csv contains, for each recording:
+- file_name: name of the audio file
+- sentence_id: sentence index (1–20)
+- text: transcription of the sentence
+- speaker_type: human / speaker
+- distance_m: 0 or 3 (meters)
+- environment: indoor
+- sample_rate: 16000
+
+--------------------------------------------------
+Intended Use:
+--------------------------------------------------
+- Evaluation of ASR robustness to loudspeaker playback
+- Comparison between natural and replayed speech
+- Fine-tuning or testing Whisper-based ASR models
+- Educational and research purposes
+
+--------------------------------------------------
+Notes:
+--------------------------------------------------
+- The dataset is intentionally small-scale due to time constraints.
+- The protocol is designed to be reproducible and extendable.
+- This dataset serves as a controlled experimental contribution
+  complementary to existing large-scale datasets.
+
+--------------------------------------------------
+License:
+--------------------------------------------------
+For academic and educational use only.

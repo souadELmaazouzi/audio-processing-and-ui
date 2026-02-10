@@ -1,0 +1,61 @@
+utt_id,condition,distance_m,text,relpath
+p001,human,,The weather was calm and clear this morning.,audio/human/p001.wav
+p001,speaker_0m,0,The weather was calm and clear this morning.,audio/speaker_0m/p001.wav
+p001,speaker_3m,3,The weather was calm and clear this morning.,audio/speaker_3m/p001.wav
+p002,human,,She placed the book carefully on the wooden table.,audio/human/p002.wav
+p002,speaker_0m,0,She placed the book carefully on the wooden table.,audio/speaker_0m/p002.wav
+p002,speaker_3m,3,She placed the book carefully on the wooden table.,audio/speaker_3m/p002.wav
+p003,human,,A small bird was singing outside the window.,audio/human/p003.wav
+p003,speaker_0m,0,A small bird was singing outside the window.,audio/speaker_0m/p003.wav
+p003,speaker_3m,3,A small bird was singing outside the window.,audio/speaker_3m/p003.wav
+p004,human,,The train arrived earlier than expected today.,audio/human/p004.wav
+p004,speaker_0m,0,The train arrived earlier than expected today.,audio/speaker_0m/p004.wav
+p004,speaker_3m,3,The train arrived earlier than expected today.,audio/speaker_3m/p004.wav
+p005,human,,He adjusted the microphone before starting to speak.,audio/human/p005.wav
+p005,speaker_0m,0,He adjusted the microphone before starting to speak.,audio/speaker_0m/p005.wav
+p005,speaker_3m,3,He adjusted the microphone before starting to speak.,audio/speaker_3m/p005.wav
+p006,human,,The meeting was postponed until next week.,audio/human/p006.wav
+p006,speaker_0m,0,The meeting was postponed until next week.,audio/speaker_0m/p006.wav
+p006,speaker_3m,3,The meeting was postponed until next week.,audio/speaker_3m/p006.wav
+p007,human,,Children were playing quietly in the park.,audio/human/p007.wav
+p007,speaker_0m,0,Children were playing quietly in the park.,audio/speaker_0m/p007.wav
+p007,speaker_3m,3,Children were playing quietly in the park.,audio/speaker_3m/p007.wav
+p008,human,,The light from the screen hurt his eyes slightly.,audio/human/p008.wav
+p008,speaker_0m,0,The light from the screen hurt his eyes slightly.,audio/speaker_0m/p008.wav
+p008,speaker_3m,3,The light from the screen hurt his eyes slightly.,audio/speaker_3m/p008.wav
+p009,human,,She opened the door and stepped inside slowly.,audio/human/p009.wav
+p009,speaker_0m,0,She opened the door and stepped inside slowly.,audio/speaker_0m/p009.wav
+p009,speaker_3m,3,She opened the door and stepped inside slowly.,audio/speaker_3m/p009.wav
+p010,human,,The sound quality changed after moving the speaker.,audio/human/p010.wav
+p010,speaker_0m,0,The sound quality changed after moving the speaker.,audio/speaker_0m/p010.wav
+p010,speaker_3m,3,The sound quality changed after moving the speaker.,audio/speaker_3m/p010.wav
+p011,human,,He read the instructions carefully before beginning.,audio/human/p011.wav
+p011,speaker_0m,0,He read the instructions carefully before beginning.,audio/speaker_0m/p011.wav
+p011,speaker_3m,3,He read the instructions carefully before beginning.,audio/speaker_3m/p011.wav
+p012,human,,The device was tested under different conditions.,audio/human/p012.wav
+p012,speaker_0m,0,The device was tested under different conditions.,audio/speaker_0m/p012.wav
+p012,speaker_3m,3,The device was tested under different conditions.,audio/speaker_3m/p012.wav
+p013,human,,A short pause occurred between the sentences.,audio/human/p013.wav
+p013,speaker_0m,0,A short pause occurred between the sentences.,audio/speaker_0m/p013.wav
+p013,speaker_3m,3,A short pause occurred between the sentences.,audio/speaker_3m/p013.wav
+p014,human,,The room became silent after the music stopped.,audio/human/p014.wav
+p014,speaker_0m,0,The room became silent after the music stopped.,audio/speaker_0m/p014.wav
+p014,speaker_3m,3,The room became silent after the music stopped.,audio/speaker_3m/p014.wav
+p015,human,,She repeated the phrase in a clear voice.,audio/human/p015.wav
+p015,speaker_0m,0,She repeated the phrase in a clear voice.,audio/speaker_0m/p015.wav
+p015,speaker_3m,3,She repeated the phrase in a clear voice.,audio/speaker_3m/p015.wav
+p016,human,,The system responded faster than expected.,audio/human/p016.wav
+p016,speaker_0m,0,The system responded faster than expected.,audio/speaker_0m/p016.wav
+p016,speaker_3m,3,The system responded faster than expected.,audio/speaker_3m/p016.wav
+p017,human,,He stood one meter away from the loudspeaker.,audio/human/p017.wav
+p017,speaker_0m,0,He stood one meter away from the loudspeaker.,audio/speaker_0m/p017.wav
+p017,speaker_3m,3,He stood one meter away from the loudspeaker.,audio/speaker_3m/p017.wav
+p018,human,,Background noise was kept to a minimum.,audio/human/p018.wav
+p018,speaker_0m,0,Background noise was kept to a minimum.,audio/speaker_0m/p018.wav
+p018,speaker_3m,3,Background noise was kept to a minimum.,audio/speaker_3m/p018.wav
+p019,human,,The experiment followed a predefined protocol.,audio/human/p019.wav
+p019,speaker_0m,0,The experiment followed a predefined protocol.,audio/speaker_0m/p019.wav
+p019,speaker_3m,3,The experiment followed a predefined protocol.,audio/speaker_3m/p019.wav
+p020,human,,All recordings were saved in lossless format.,audio/human/p020.wav
+p020,speaker_0m,0,All recordings were saved in lossless format.,audio/speaker_0m/p020.wav
+p020,speaker_3m,3,All recordings were saved in lossless format.,audio/speaker_3m/p020.wav
